@@ -8,6 +8,8 @@ The project focuses on proving the uniqueness of the "shortest-path" optimal sol
 
 The efficacy of this unique solution is validated through two comparative tests: one using synthetic data to benchmark the solution against reinforcement learning algorithms, and another using real-world data from an electrical vehicle storage device to compare against numerical methods. The analytical proof aims to enhance understanding of low-complexity methods and enable better benchmarking of high-complexity solution methods like those based on reinforcement learning. The project also includes comparative analysis of the proposed method with other algorithms in energy balancing scenarios and electrical vehicle simulations.
 
+![plot](./ev_battery.jpg)
+
 ## Contents
 
 * Proof Diagram: The proof_diagram.pdf file provides a visual representation of the proof structure.
